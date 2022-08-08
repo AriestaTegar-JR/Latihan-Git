@@ -1,4 +1,8 @@
 Halo Dunia!
 Selamat Datang!
 
+Teks 1:
 Saya sedang mempelajari GitHub. 
+Teks 2:
+Saya sedang belajar GitHub.
+
