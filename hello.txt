@@ -1,2 +1,3 @@
-Halo Dunia! Saya sedang belajar GitHub.
+Halo Dunia! 
+Saya sedang belajar GitHub.
 
